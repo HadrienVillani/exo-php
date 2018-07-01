@@ -8,6 +8,7 @@
 
 <body>
 <?php echo 'coucou' ?>
+<p>coucou all</p>
 
 </body>
 
